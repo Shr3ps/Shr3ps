@@ -1,5 +1,5 @@
 [![Shr3ps's github stats](https://github-readme-stats.vercel.app/api?username=Shr3ps&theme=algolia&show_icons=true)](https://github.com/Shr3ps/Shr3ps)
-![https://github-readme-stats.vercel.app/api/top-langs/?username=Shr3ps&hide=c&layout=compact&theme=algolia](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr3ps&hide=c&layout=compact&theme=algolia)
+![Shr3ps's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shr3ps&theme=algolia&langs_count=10&layout=compact)
 
 <!--
 **Shr3ps/Shr3ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
